@@ -132,7 +132,7 @@ python manage.py seed
 ## ✨ **Author**
 
 - **ALX Backend Engineering**
-- **Implemented by:** [Your Name]
+- **Implemented by:** [Tokyo]
 
 ---
 
